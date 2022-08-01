@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "coffeefarm",
+    "name": "Coffee Farm",
+    "authors": [ "Cachorro11" ],
+    "maintainers": [ "Cachorro11" ],
+    "description": "Add Coffee Seeds. You can Plant, roast and grind to make coffee powder.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
